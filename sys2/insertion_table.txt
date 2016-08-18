@@ -73,13 +73,13 @@ insert into warehouse values(
 
 5.
 insert into customer values(
-1001,'Jaismeen','jaismeen_12@gmail.com','abc@123','Kondapur',9453790871,17.451,78.377);
+1001,'Jaismeen','jaismeen_12@gmail.com','abc@123','Habsiguda',9453790871,17.4192,78.5414);
 
 insert into customer values(
-1002,'Ankur','ankur.93@gmail.com','wsmk#@','Jublie Hills',9135267832,17.422175,78.436515);
+1002,'Ankur','ankur.93@gmail.com','wsmk#@','Chittoor',9135267832,13.21439,79.10688);
 
 insert into customer values(
-1003,'Leepakshi','leepakshi_bindra@hotmail.com','dhje#@23.','Madhapur',9725479200,17.493972,78.358593);
+1003,'Leepakshi','leepakshi_bindra@hotmail.com','dhje#@23.','Charminar',9725479200,17.36151,78.47468);
 
 insert into customer values(
 1004,'Shruthi','shruthi.94@outlook.com','ghrjt!#@','Gachibowli',9332247610,17.44008,78.348917);
